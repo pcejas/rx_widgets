@@ -11,7 +11,9 @@ dependencies:
  flutter:
     sdk: flutter
 
- rx_command: ^2.0.3   
+ rx_command: # ^2.0.3
+  git:
+    url: https://github.com/pcejas/rx_command.git
     
 #  rx_command:
 #     path: ..\rx_command\   
